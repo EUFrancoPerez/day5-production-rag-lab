@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+google-generativeai
+sentence-transformers
+pinecone-client
+pydantic
+pytest
+pytest-asyncio
+schedule
